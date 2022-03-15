@@ -1,0 +1,99 @@
+.blur{
+background-color: rgba(255, 255, 255, 0.164);
+border-radius:10px;
+width: 330px;
+height: 380px;
+backdrop-filter: blur(4px);
+margin-left: 570px;
+margin-top: 200px;
+}
+body{
+    background-color: black;
+}
+.blue{
+    background-color: rgb(62, 62, 255);
+    border-radius: 100px;
+    margin-left: 505px;
+    top: 140px;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+}
+.orange{
+    background-color: rgb(255, 145, 0);
+    border-radius: 100px;
+    margin-left: 795px;
+    top: 505px;
+    position: absolute;
+    width: 140px;
+    height: 140px;
+}
+.q{
+    color: rgba(255, 255, 255, 0.719);
+    font-weight: 200;
+    font-size:22px ;
+    margin-left: 102px;
+    margin-top: 20px;
+    display: inline-block;
+}
+legend{
+    color: rgba(255, 255, 255, 0.719);
+    font-size: 15px;
+}
+.inputs{
+    background-color: rgba(255, 255, 255, 0.164);
+    border: none;
+    width: 266px;
+    height: 38px;
+    border-radius: 5px;
+}
+::placeholder{
+    color: rgba(255, 255, 255, 0.534);
+}
+.q2{
+    margin-top: 20px;
+}
+.q1{
+margin-left: 25px;
+margin-top: 20px;
+}
+.submit{
+    background-color: rgb(255, 255, 255);
+    border: none;
+    color: black;
+    font-weight: 600;
+    width: 269px;
+    margin-top: 50px;
+    height: 40px;
+    border-radius: 5px;
+}
+.button1{
+    width: 120px;
+    height: 30px;
+    border-radius: 3px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.200);
+    font-weight: 600;
+    color: white;
+    padding-left: 20px;
+}
+.icon1{
+    position: absolute;
+    left: 40px;
+    top: 327px;
+    color: white;
+}
+.icon2{
+    position: absolute;
+    left: 184px;
+    top: 327px;
+    color: white;
+}
+.icons1{
+    margin-left: 25px;
+    margin-top: 30px;
+}
+.icons2{
+    margin-left: 174px;
+    margin-top: -30px;
+}

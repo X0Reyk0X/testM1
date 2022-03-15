@@ -1,0 +1,50 @@
+form{
+    background-color: black;
+    width: 100px;
+    margin-left: 500px;
+margin-top: 200px;
+width: 450px;
+height: 260px;
+border-radius: 14px;
+}
+sup{
+    color: white;
+    background: none;
+    font-size: 17px;
+    margin-left: 23px;
+    margin-top: 34px;
+    display: inline-block;
+}
+img{
+    width: 110px;
+    margin-left: 175px;
+}
+legend{
+    color: rgba(102, 101, 101, 0.788);
+    font-size: 13px;
+}
+input{
+    background:none ;
+    border: none;
+    outline: none;
+}
+.size{
+    font-size: 20px;
+}
+.div1{
+    margin-left: 20px;
+    margin-top: 55px;
+}
+.div2{
+    margin-left: 20px;
+    margin-top: 23px;
+}
+select{
+    background-color:black;
+    outline: none;
+    color: white;
+}
+.div3{
+    margin-top: -33px;
+    margin-left: 386px;
+}

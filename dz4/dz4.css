@@ -1,0 +1,105 @@
+body{
+    background: rgb(49, 85, 75);
+    background: linear-gradient(90deg, rgba(49, 85, 75, 1) 0%, rgba(177, 185, 144, 1) 100%);
+}
+.container{
+    background-color: white;
+    width: 50%;
+    height: 300px;
+    margin-left: 360px;
+    margin-top: 170px;
+}
+.credit{  
+    margin-left: 300px;
+    font-size: 20px;
+    margin-top: 30px;
+    color: rgb(67, 150, 165);
+    display: inline-block;
+}
+.name1{
+    margin-left: 8.1px;
+    width: 712px;
+    border: none;
+    margin-top: 30px;
+    border-bottom: 1.5px solid gray;
+}
+.name2{
+    margin-left: 8.1px;
+    width: 170px;
+    border: none;
+    margin-top: 30px;
+    border-bottom: 1.5px solid gray;
+}
+.name3{
+    margin-left: 188.1px;
+    width: 180px;
+    position: absolute;
+    border: none;
+    margin-top: -19px;
+    border-bottom: 1.5px solid gray;
+}
+.name6{
+    margin-left: 380px;
+    width: 180px;
+    position: absolute;
+    border: none;
+    margin-top: -19px;
+    border-bottom: 1.5px solid gray;
+}
+.name7{
+    margin-left: 570px;
+    width: 151px;
+    position: absolute;
+    border: none;
+    margin-top: -19px;
+    border-bottom: 1.5px solid gray;
+}
+.name4{
+    margin-left: 8.1px;
+    width: 332px;
+    position: absolute;
+    border: none;
+    margin-top: 24px;
+    border-bottom: 1.5px solid gray;
+}
+.name5{
+    margin-left: 350.5px;
+    width: 370px;
+    position: absolute;
+    border: none;
+    margin-top: 24px;
+    border-bottom: 1.5px solid gray;
+}
+.submit{
+    width: 720px;
+    margin-left: 8px;
+    margin-top: 103px;
+    border: none;
+    color: white;
+    background-color: rgb(67, 150, 165);
+    height: 35px;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.699);
+    width: 8.3%;
+    height: 120px;
+    transform: rotate(-30deg);
+    margin-top: -245px;
+    margin-left: 245px;
+    position: absolute;
+    z-index: -1;
+}
+.black2{
+    color: rgb(134, 134, 134);
+    margin-top:14px;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.black3{
+    color: rgb(134, 134, 134);
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 18px;
+    display: inline-block;
+}
